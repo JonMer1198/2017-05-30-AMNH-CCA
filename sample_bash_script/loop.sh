@@ -17,7 +17,3 @@ do echo $i;
 #do echo $j;
 #done
 done
-
-for j in {a..g};
-do echo $j;
-done

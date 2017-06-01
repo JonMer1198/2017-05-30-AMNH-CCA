@@ -14,3 +14,5 @@ for x in [1,3,5] :
 # Let's loop over different values for the first argument in the Algebra class
     myalg = ps.Algebra(x, 5.0)
     print myalg.add()
+    print myalg.subtract()
+    print myalg.multiply()
